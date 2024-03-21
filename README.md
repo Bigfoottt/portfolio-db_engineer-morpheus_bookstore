@@ -36,4 +36,4 @@ Saya akan membuat visualisasi untuk menganalisis data penjualan ini menggunakan 
 4. Membuat histogram yang menunjukkan distribusi usia pelanggan.
 5. Membuat heatmap yang menunjukkan pola penjualan buku berdasarkan hari dalam seminggu dan jam dalam sehari.
 
-Catatan: Bisa membuat data yang dibutuhkan atau menggunakan data yang sudah ada.
+Catatan: Bisa membuat data baru yang dibutuhkan atau menggunakan data yang sudah ada.
